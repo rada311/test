@@ -1,0 +1,127 @@
+.fl{
+	float: left;
+}
+.box{
+	width: 100%;
+}
+.top{
+	width: 960px;
+	background: pink;
+	margin: 0 auto;
+	height: 30px;
+}
+.homepage{
+	height: 30px;
+	line-height: 30px;
+	width: 50px;
+	text-align: center;
+	font-size: 18px;
+	color: #D43F3A;
+}
+.sign{
+	height: 30px;
+	line-height: 30px;
+	margin-left: 50px;
+}
+.cart{
+	height: 30px;
+	line-height: 30px;
+	margin-left: 50px;
+}
+.title{
+	height: 30px;
+	width: 960px;
+	margin: 0 auto;
+}
+.title input{
+	float: left;
+}
+.title span{
+	float: left;
+}
+.title span:nth-child(2){
+	margin-right: 150px;
+}
+.title span:nth-child(3){
+	margin-right: 260px;
+}
+.title span:nth-child(4){
+	margin-right: 90px;
+}
+.title span:nth-child(5){
+	margin-right: 90px;
+}
+.title span:nth-child(6){
+	margin-right: 55px;
+}
+.product{
+	width: 960px;
+	margin: 0 auto;
+}
+.productin{
+	height: 120px;
+	width: 960px;
+	border-top: #C3C3C3 dotted 1px;
+	border-bottom: #C3C3C3 dotted 1px;
+}
+.img{
+	height: 80px;
+	width: 80px;
+	float: left;
+}
+.check{
+	float: left;
+}
+.detail{
+	width: 850px;
+	height: 120px;
+	float: left;
+}
+.name{
+	height: 120px;
+	width: 400px;
+	float: left;
+	margin-left: 10px;
+}
+.price{
+	float: left;
+	width: 70px;
+	margin-right: 35px;
+}
+.operate{
+	float: left;
+	margin-right: 30px;
+}
+
+.sub,.change,.push{
+	float: left;
+	width: 30px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+}
+.sumprice{
+	float: left;
+	width: 70px;
+	margin-left: 30px;
+	margin-right: 40px;
+}
+.dele{
+	float: left;
+	width: 70px;
+}
+.bottom{
+	height: 30px;
+	width: 960px;
+	margin: 0 auto;
+	line-height: 30px;
+}
+.counter{
+	color: #F00515;
+}
+.zongji{
+	float: right;
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+}
